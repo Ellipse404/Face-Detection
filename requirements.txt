@@ -1,0 +1,5 @@
+1. Pythob 3.0 or above version should be installed in system.
+2. install cv2 module
+      command : pip install cv2
+3. Haarcascade Frontal Face Algorithm should be placed in thr same directory where     the code is. 
+     
